@@ -1,0 +1,22 @@
+body {
+  background-color: #d2f1ee !important ;
+  font-family: "Droid Sans Mono";
+  font-size: 35px;
+  font-family: "Droid Sans Mono", courier;
+}
+#viswa{
+  font-family: "Droid Sans Mono", courier;
+   color: rgb(117, 117, 117);
+   max-width: 600px;
+}
+#inp-typing {
+
+  border-top-style: hidden;
+  border-right-style: hidden;
+  border-left-style: hidden;
+  border-bottom-style: 1px solid gray;
+  border-radius: 5px;
+  box-shadow: rgb(0 0 0 / 15%) 0px 2px 8px;
+  border-radius: 10px;
+
+}
